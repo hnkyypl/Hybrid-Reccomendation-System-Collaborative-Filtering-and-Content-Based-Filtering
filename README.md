@@ -1,3 +1,3 @@
-# Hybrid-Reccomendation-System-Collaborative-Filtering-and-Content-Based-Filtering
+# Hybrid-Recommendation-System-Collaborative-Filtering-and-Content-Based-Filtering
 
 ### Contributor
